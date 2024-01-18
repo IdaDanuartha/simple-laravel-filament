@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Filament\Resources;
-
+ 
 use App\Filament\Resources\CategoryResource\Pages;
 use App\Filament\Resources\CategoryResource\RelationManagers;
 use App\Models\Category;
